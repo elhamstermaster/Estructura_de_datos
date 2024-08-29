@@ -10,7 +10,7 @@ public class Main {
         int opcion = 0, elem;
         do {
             try {
-                //validar
+                //valida
                 opcion = Integer.parseInt(JOptionPane.showInputDialog(null, """
                            1.--> Agregar un elemento al inicio de la lista
                            2.--> Agregar un elemento al final de la lista

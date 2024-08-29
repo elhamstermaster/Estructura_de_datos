@@ -10,7 +10,7 @@ public class Nodos {
         this.siguiente = null; // No hay siguiente nodo todavía
     }
 
-    // Constructor para crear un nodo que se agregará al inicio
+    //Constructor para crear un nodo que se agregará al inicio
     public Nodos(int d, Nodos n) {
         dato = d; // Guarda el número en el nodo
         siguiente = n; // Enlace al siguiente nodo
