@@ -1,7 +1,7 @@
 package edu_gilberto_heredia.actividad2.data;
 
 public class Nodos {
-    public int dato; // Aquí se guarda el número
+    public int dato; // Aquí se guarda el número.
     public Nodos siguiente; // Aquí se guarda el enlace al siguiente nodo
 
     // Constructor para crear un nodo que se agregará al final

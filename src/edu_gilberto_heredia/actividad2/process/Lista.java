@@ -2,7 +2,7 @@ package edu_gilberto_heredia.actividad2.process;
 
 import edu_gilberto_heredia.actividad2.data.Nodos;
 
-public class Lista { //debe tener cabecera y cola de la lista
+public class Lista { //debe tener cabecera y cola de la lista.
     protected Nodos inicio, fin; //punteros para saber donde está el inicio y fin
 
     public Lista()
